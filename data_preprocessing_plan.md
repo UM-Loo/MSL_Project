@@ -7,7 +7,7 @@
 
 ## Tasks
 1. **Create Folder Structure**
-   - Organize videos under `Occ#_Group#` > `Glosses` > `Gloss_memberID.mp4`.
+   - Organize videos under `Occ1_Group12` > `Glosses` > `Gloss_memberID.mp4`.
 
 2. **File Naming Convention**
    - Format: `Gloss_Occ#_Group#_MemberID.mp4`
